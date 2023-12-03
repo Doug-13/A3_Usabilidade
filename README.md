@@ -12,7 +12,7 @@ Pedro Paulo Oliveira Falcão - RA: 1272220290<br>
 Rhael Silva Santos - RA: 12722132548<br>
 
 ## Personas
-<img src="\Assets\persona1.jpeg" alt="Persona_1" height="100" width="100">
+<img src="\Assets\persona1.jpeg" alt="Persona_1" height="500" width="500">
 <img src="\Assets\persona2.jpeg" alt="Persona_2" height="100" width="100">
 
 
