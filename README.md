@@ -12,7 +12,8 @@ Pedro Paulo Oliveira Falcão - RA: 1272220290<br>
 Rhael Silva Santos - RA: 12722132548<br>
 
 ## Personas
-
+<img src="\Assets\persona1.JPEG">
+<img src="\Assets\persona2.JPEG">
 
 ## Cenarios
 
