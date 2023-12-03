@@ -49,28 +49,28 @@ Cada pilar tem o peso de 10 pontos, formando o resultado máximo de 100 pontos.
 
 
 #### Visibilidade do Estado do Sistema
- Como se trata de um protótipo leve, não foi notado nenhum tipo de interferência na visibilidade do sistema, o sistema é bem responsivo e todas as ações são bem explícitas, graças ao design simples, porém bem trabalhado e responsivo. Podemos considerar como faltante apenas mais alertas de avisos em algumas telas, majoritariamente de confirmação de ações. 8/10
+ Como se trata de um protótipo leve, não foi notado nenhum tipo de interferência na visibilidade do sistema, o sistema é bem responsivo e todas as ações são bem explícitas, graças ao design simples, porém bem trabalhado e responsivo. Podemos considerar como faltante apenas mais alertas de avisos em algumas telas, majoritariamente de confirmação de ações. **8/10**
 
 #### Relação entre o Mundo Real e o Sistema
- Um dos quesitos de maior destaque no protótipo em questão, linguagem simples, objetiva e de fácil entendimento, como por exemplo na tela de reserva, onde é demonstrada todas as características do Hotel em questão de maneira simplificada e resumida. 10/10
+ Um dos quesitos de maior destaque no protótipo em questão, linguagem simples, objetiva e de fácil entendimento, como por exemplo na tela de reserva, onde é demonstrada todas as características do Hotel em questão de maneira simplificada e resumida. **10/10**
 
 #### Controle e Liberdade do Usuário
- Conforme visto no protótipo, o usuário enfrenta poucas interferências do sistema, que por sua vez permite total liberdade ao mesmo, mas sem perder a segurança da navegação do aplicativo. O usuário consegue sim retornar fácilmente as telas indo no botão de retorno do seu aparelho, mas, esta facilidade pode vir a acarretar problemas em um caso de apertar o botão sem querer, uma vez que o sistema não possui tela de aviso, ou confirmação desta ação, poderá causar possível perda de dados no processo. 7,5/10
+ Conforme visto no protótipo, o usuário enfrenta poucas interferências do sistema, que por sua vez permite total liberdade ao mesmo, mas sem perder a segurança da navegação do aplicativo. O usuário consegue sim retornar fácilmente as telas indo no botão de retorno do seu aparelho, mas, esta facilidade pode vir a acarretar problemas em um caso de apertar o botão sem querer, uma vez que o sistema não possui tela de aviso, ou confirmação desta ação, poderá causar possível perda de dados no processo. **7,5/10**
 
 #### Consistência e Padrões
- Devido ao design bem planejado e simples, o programa se demonstrou bem coeso e seguindo todos os padrões de layout apresentados nas telas anteriores, desde o padrão do design até o jeito no qual as informações são apresentadas ao usuário. 10/10
+ Devido ao design bem planejado e simples, o programa se demonstrou bem coeso e seguindo todos os padrões de layout apresentados nas telas anteriores, desde o padrão do design até o jeito no qual as informações são apresentadas ao usuário. **10/10**
 
 #### Prevenção de Erros
- Sendo um dos aspectos menos satisfatórios do protótipo, os alertas não colaboram para que o cliente compreenda o que causou o erro caso o mesmo venha a ocorrer. 6,5/10
+ Sendo um dos aspectos menos satisfatórios do protótipo, os alertas não colaboram para que o cliente compreenda o que causou o erro caso o mesmo venha a ocorrer. **6,5/10**
 
 #### Reconhecimento em Vez de Lembrança
- Um dos destaques do protótipo, é sem dúvidas a facilidade de navegação. Tendo um passo-a-passo bem linear, é muito difícil para o cliente se perder nas etapas e precisar relembrar-se de algo envolvendo a navegação no aplicativo. 10/10
+ Um dos destaques do protótipo, é sem dúvidas a facilidade de navegação. Tendo um passo-a-passo bem linear, é muito difícil para o cliente se perder nas etapas e precisar relembrar-se de algo envolvendo a navegação no aplicativo. **10/10**
 
 #### Flexibilidade e Eficiência de Uso
- Graças a simplicidade do protótipo, o mesmo aceita muito bem ramificações e é possível sim flexibilizar a usabilidade do mesmo para filtros mais específicos, ou até mesmo para funções que possam vir a demandar um pouco mais de capacidade do programa. 9/10
+ Graças a simplicidade do protótipo, o mesmo aceita muito bem ramificações e é possível sim flexibilizar a usabilidade do mesmo para filtros mais específicos, ou até mesmo para funções que possam vir a demandar um pouco mais de capacidade do programa. **9/10**
 
 #### Design Estético e Minimalista
- Fácilmente um dos tópicos de maior prestígio do protótipo, o design consegue entregar uma sensação de sofisticação, sem pecar pelos excessos. 10/10
+ Fácilmente um dos tópicos de maior prestígio do protótipo, o design consegue entregar uma sensação de sofisticação, sem pecar pelos excessos. **10/10**
 
 #### Ajuda aos Usuários a Reconhecer, Diagnosticar e Recuperar Erros
   Infelizmente os alertas de fato não são quesitos satisfatórios no protótipo, conforme abordado no pilar V., o usuário não consegue diagnosticar os erros. 6/10
@@ -83,8 +83,6 @@ Cada pilar tem o peso de 10 pontos, formando o resultado máximo de 100 pontos.
 #### Análise Heurística
 
  <img src="\Assets\Analise_Heuristica.PNG">
- <img src= "https://github.com/Doug-13/A3_Usabilidade/blob/main/Assets/Analise_Heuristica.PNG">
-
 
 #### Considerações Finais
  No geral, o protótipo se encontra num nível muito bom em relação a interface, design e linearidade, mas é possível observar falhas no sentido de responsividade e no mapeamento de erros do programa. Porém, de certo modo o mesmo consegue compensar todas essas questões com uma solução bem projetada e amigável a todos os usuários.
