@@ -25,7 +25,7 @@ Rhael Silva Santos - RA: 12722132548<br>
 ## Prototipo Hi-Fi
 Para acessar o figma do projeto clique [aqui](https://www.figma.com/proto/qrBIq5GB1MEDQxRqWzxqAX/Prot%C3%B3tipo-hi-fi?type=design&node-id=1-3&t=5xZu0170A4JRvdPU-1&scaling=min-zoom&page-id=0%3A1&mode=design)
 
- <img src="\Assets\hifi1.PNG"alt="Persona_2" height="600" >
+ <img src="\Assets\hifi1.PNG" alt="Hi-Fi" height="600" width="100">
  <img src="\Assets\hifi2.PNG">
 
 ## Relatório analítico das heurísticas de Nielsen
