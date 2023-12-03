@@ -19,7 +19,10 @@ Rhael Silva Santos - RA: 12722132548<br>
 
 ## Prototipo Lo-Fi
  <img src="\Assets\lofi.PNG">
+ 
 ## Prototipo Hi-Fi
+ <img src="\Assets\hifi1.PNG">
+ <img src="\Assets\hifi2.PNG">
 
 ## Relatório analítico das heurísticas de Nielsen
 
