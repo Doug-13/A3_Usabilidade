@@ -12,15 +12,15 @@ Pedro Paulo Oliveira Falcão - RA: 1272220290<br>
 Rhael Silva Santos - RA: 12722132548<br>
 
 ## Personas
-<img src="\Assets\persona1.jpeg" alt="Persona_1" height="500" width="600">
-<img src="\Assets\persona2.jpeg" alt="Persona_2" height="100" width="100">
+<img src="\Assets\persona1.jpeg" alt="Persona_1" height="500" width="600" style="display: block; margin: auto;>
+<img src="\Assets\persona2.jpeg" alt="Persona_2" height="100" width="100"style="display: block; margin: auto;>
 
 
 ## Cenarios
 
 
 ## Prototipo Lo-Fi
- <img src="\Assets\lofi.PNG">
+ <img src="\Assets\lofi.PNG style="display: block; margin: auto;">
  
 ## Prototipo Hi-Fi
 Para acessar o figma do projeto clique [aqui](https://www.figma.com/proto/qrBIq5GB1MEDQxRqWzxqAX/Prot%C3%B3tipo-hi-fi?type=design&node-id=1-3&t=5xZu0170A4JRvdPU-1&scaling=min-zoom&page-id=0%3A1&mode=design)
