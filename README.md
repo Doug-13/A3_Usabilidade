@@ -43,7 +43,7 @@ Rhael Silva Santos - RA: 12722132548<br>
 
 **Ajuda e Documentação:** Quando necessário, fornecer documentação de suporte e ajuda online para orientar os usuários nas tarefas.
 
-<br>
+
 ### Iremos avaliar toda a prototipagem do conceito com base nestes 10 pilares.
 Cada pilar tem o peso de 10 pontos, formando o resultado máximo de 100 pontos.
 
