@@ -82,7 +82,7 @@ Cada pilar tem o peso de 10 pontos, formando o resultado máximo de 100 pontos.
 
 #### Análise Heurística
 
- <img src="/Assets/Analise_Heuristica.PNG)">
+ <img src="\Assets\Analise_Heuristica.PNG)">
 
 
 #### Considerações Finais
