@@ -21,6 +21,8 @@ Rhael Silva Santos - RA: 12722132548<br>
  <img src="\Assets\lofi.PNG">
  
 ## Prototipo Hi-Fi
+Para acessar o figma do projeto clique [aqui](https://www.figma.com/proto/qrBIq5GB1MEDQxRqWzxqAX/Prot%C3%B3tipo-hi-fi?type=design&node-id=1-3&t=5xZu0170A4JRvdPU-1&scaling=min-zoom&page-id=0%3A1&mode=design)
+
  <img src="\Assets\hifi1.PNG">
  <img src="\Assets\hifi2.PNG">
 
