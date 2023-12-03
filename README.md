@@ -14,8 +14,12 @@ Rhael Silva Santos - RA: 12722132548<br>
 ## Personas
 
 
+## Cenarios
 
 
+## Prototipo Lo-Fi
+ <img src="\Assets\lofi.PNG">
+## Prototipo Hi-Fi
 
 ## Relatório analítico das heurísticas de Nielsen
 
@@ -73,10 +77,10 @@ Cada pilar tem o peso de 10 pontos, formando o resultado máximo de 100 pontos.
  Fácilmente um dos tópicos de maior prestígio do protótipo, o design consegue entregar uma sensação de sofisticação, sem pecar pelos excessos. **10/10**
 
 #### Ajuda aos Usuários a Reconhecer, Diagnosticar e Recuperar Erros
-  Infelizmente os alertas de fato não são quesitos satisfatórios no protótipo, conforme abordado no pilar V., o usuário não consegue diagnosticar os erros. 6/10
+  Infelizmente os alertas de fato não são quesitos satisfatórios no protótipo, conforme abordado no pilar V., o usuário não consegue diagnosticar os erros. **6/10**
 
 #### Ajuda e Documentação
- Até o momento o protótipo não consta com algum tipo de FAQ ou Documentação  que consiga ajudar o usuário na navegação, porém acaba passando em branco uma vez que a usabilidade é muito simplificada. 5/10
+ Até o momento o protótipo não consta com algum tipo de FAQ ou Documentação  que consiga ajudar o usuário na navegação, porém acaba passando em branco uma vez que a usabilidade é muito simplificada. **5/10**
 
 
 
