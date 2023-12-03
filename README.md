@@ -21,7 +21,7 @@ Rhael Silva Santos - RA: 12722132548<br>
 
 #### Introdução
   Desenvolvido em Novembro de 2023, o protótipo do projeto "Tripway" embarca no conceito de viagens low-cost afim de descomplicar o processo de viajar, que por sua vez costuma ser bastante desgastante. Com interface amigável, o aplicativo viria para facilitar o processo tanto para pessoas que já possuem entendimento referente a tecnologia, quanto para pessoas leigas no assunto.
-  Conforme solicitado, foram seguidas as 10 diretrizes básicas da análise heurística estabelecida por Jakob Nielsen, São elas:
+  Conforme solicitado, foram seguidas as 10 diretrizes básicas da análise heurística estabelecida por Jakob Nielsen, são elas:
 
 **Visibilidade do Estado do Sistema:** O sistema deve sempre informar os usuários sobre o que está acontecendo, fornecendo feedback adequado em tempo real sobre suas ações.
 
@@ -82,7 +82,7 @@ Cada pilar tem o peso de 10 pontos, formando o resultado máximo de 100 pontos.
 
 #### Análise Heurística
 
- <img src="/assets/img/arquivo.gif">
+ <img src="/Assets/Analise_Heuristica.PNG)">
 
 
 #### Considerações Finais
