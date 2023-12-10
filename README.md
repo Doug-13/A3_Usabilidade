@@ -48,7 +48,13 @@ Luis, ansioso por explorar e encontrar inspiração em novos lugares, está dete
 
 **Cenário 2** - Jéssica, uma designer gráfica de 33 anos de Minas Gerais, Brasil, está animada para planejar seu primeiro mochilão pela América do Sul. Enfrentando a frustração da falta de experiência em planejamento de viagens, ela busca um aplicativo que atenda às suas necessidades. Sua personalidade criativa, aventureira e amigável reflete em seus objetivos de buscar desafios emocionantes, experiências culturais e novas amizades.
 
-Ativa nas redes sociais, Jéssica segue influenciadores de viagens e lê blogs de aventureiros para obter inspiração. Ao explorar o aplicativo, ela procura uma ampla gama de destinos sul-americanos, ferramentas intuitivas para planejar itinerários personalizados e informações detalhadas sobre atrações locais e eventos culturais. A praticidade de reservar voos, acomodações e visitas guiadas diretamente pelo aplicativo é essencial para sua experiência de viagem. Além disso, Jéssica valoriza informações claras sobre requisitos de visto, considerando sua falta de experiência em viagens internacionais. Em resumo, ela busca uma plataforma que combine funcionalidades abrangentes com a praticidade de seu estilo de vida digital, permitindo que sua viagem pela América do Sul seja não apenas planejada, mas também enriquecedora e inesquecível.
+Ativa nas redes sociais, Jéssica segue influenciadores de viagens e lê blogs de aventureiros para obter inspiração. Ao explorar o aplicativo, ela procura uma ampla gama de destinos sul-americanos, ferramentas intuitivas para planejar itinerários personalizados e informações detalhadas sobre atrações locais e eventos culturais.
+
+A praticidade de reservar voos, acomodações e visitas guiadas diretamente pelo aplicativo é essencial para sua experiência de viagem. 
+
+Além disso, Jéssica valoriza informações claras sobre requisitos de visto, considerando sua falta de experiência em viagens internacionais. 
+
+Em resumo, ela busca uma plataforma que combine funcionalidades abrangentes com a praticidade de seu estilo de vida digital, permitindo que sua viagem pela América do Sul seja não apenas planejada, mas também enriquecedora e inesquecível.
 
 
 ## Prototipo Lo-Fi
