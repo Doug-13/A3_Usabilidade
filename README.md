@@ -35,7 +35,7 @@ A próxima seção deste documento contém o modelo (template) do relatório de 
 
 ## Cenarios
 
-*Cenário 1* - Luis Bassalo, um engenheiro de software apaixonado por tecnologia, encontra-se imerso em sua rotina de trabalho em uma grande empresa de tecnologia. Sua paixão por programar e desenvolver novos aplicativos é evidente, mas, nos momentos de lazer, Luis se entrega à sua outra paixão: a fotografia.
+**Cenário 1** - Luis Bassalo, um engenheiro de software apaixonado por tecnologia, encontra-se imerso em sua rotina de trabalho em uma grande empresa de tecnologia. Sua paixão por programar e desenvolver novos aplicativos é evidente, mas, nos momentos de lazer, Luis se entrega à sua outra paixão: a fotografia.
 
 Com uma câmera sempre à mão, Luis aproveita seu tempo livre explorando a cidade em busca de locais interessantes para capturar imagens deslumbrantes. Apesar de sua natureza introvertida, ele não hesita em compartilhar suas últimas fotos com amigos e está sempre disposto a ajudá-los com problemas de tecnologia.
 
@@ -47,7 +47,7 @@ Ao planejar sua viagem, Luis busca um aplicativo que vá além de simples reserv
 
 Luis, ansioso por explorar e encontrar inspiração em novos lugares, está determinado a transformar sua próxima viagem em uma jornada fotográfica única, onde cada imagem capturada conte uma história única de sua experiência e descoberta.
 
-*Cenário 2* - Jéssica, uma designer gráfica de 33 anos de Minas Gerais, Brasil, está animada para planejar seu primeiro mochilão pela América do Sul. Enfrentando a frustração da falta de experiência em planejamento de viagens, ela busca um aplicativo que atenda às suas necessidades. Sua personalidade criativa, aventureira e amigável reflete em seus objetivos de buscar desafios emocionantes, experiências culturais e novas amizades.
+**Cenário 2** - Jéssica, uma designer gráfica de 33 anos de Minas Gerais, Brasil, está animada para planejar seu primeiro mochilão pela América do Sul. Enfrentando a frustração da falta de experiência em planejamento de viagens, ela busca um aplicativo que atenda às suas necessidades. Sua personalidade criativa, aventureira e amigável reflete em seus objetivos de buscar desafios emocionantes, experiências culturais e novas amizades.
 
 Ativa nas redes sociais, Jéssica segue influenciadores de viagens e lê blogs de aventureiros para obter inspiração. Ao explorar o aplicativo, ela procura uma ampla gama de destinos sul-americanos, ferramentas intuitivas para planejar itinerários personalizados e informações detalhadas sobre atrações locais e eventos culturais. A praticidade de reservar voos, acomodações e visitas guiadas diretamente pelo aplicativo é essencial para sua experiência de viagem. Além disso, Jéssica valoriza informações claras sobre requisitos de visto, considerando sua falta de experiência em viagens internacionais. Em resumo, ela busca uma plataforma que combine funcionalidades abrangentes com a praticidade de seu estilo de vida digital, permitindo que sua viagem pela América do Sul seja não apenas planejada, mas também enriquecedora e inesquecível.
 
