@@ -35,7 +35,7 @@ A próxima seção deste documento contém o modelo (template) do relatório de 
 
 **RF6 - Informações sobre Atrações Locais:** O sistema deve disponibilizar informações detalhadas sobre atrações locais em destinos específicos. Os usuários devem ter acesso a descrições, horários de funcionamento, preços, avaliações e recomendações para as principais atrações em seus destinos de escolha.
 
-## Cenarios
+## Cenários
 
 **Cenário 1** - Luis Bassalo, um engenheiro de software apaixonado por tecnologia, encontra-se imerso em sua rotina de trabalho em uma grande empresa de tecnologia. Sua paixão por programar e desenvolver novos aplicativos é evidente, mas, nos momentos de lazer, Luis se entrega à sua outra paixão: a fotografia.
 
