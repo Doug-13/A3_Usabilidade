@@ -18,7 +18,7 @@ Para acessar a apresentação do trabalho [clique aqui](https://www.youtube.com/
 <img src="\Assets\persona1.jpeg" alt="Persona_1">
 <img src="\Assets\persona2.jpeg" alt="Persona_2">
 
-# Requisitos
+## Requisitos
 Esses requisitos visam garantir que o aplicativo proporcione aos usuários uma experiência completa, desde a fase inicial de pesquisa e planejamento até a execução da viagem, integrando funcionalidades que facilitem a tomada de decisões e a organização de itinerários personalizados.
 
 **Requisito de Pesquisa de Destinos:**
@@ -129,13 +129,11 @@ Cada pilar tem o peso de 10 pontos, formando o resultado máximo de 100 pontos.
 #### Ajuda e Documentação
  Até o momento o protótipo não consta com algum tipo de FAQ ou Documentação  que consiga ajudar o usuário na navegação, porém acaba passando em branco uma vez que a usabilidade é muito simplificada. **5/10**
 
-
-
 #### Análise Heurística
 
  <img src="\Assets\Analise_Heuristica.PNG">
 
-#### Considerações Finais
+## Considerações Finais
  No geral, o protótipo se encontra num nível muito bom em relação a interface, design e linearidade, mas é possível observar falhas no sentido de responsividade e no mapeamento de erros do programa. Porém, de certo modo o mesmo consegue compensar todas essas questões com uma solução bem projetada e amigável a todos os usuários.
 
 #### Sem ressalvas
