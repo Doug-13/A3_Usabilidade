@@ -20,8 +20,36 @@ A próxima seção deste documento contém o modelo (template) do relatório de 
 <img src="\Assets\persona1.jpeg" alt="Persona_1">
 <img src="\Assets\persona2.jpeg" alt="Persona_2">
 
+# Requisitos
+**RF1 - Recursos de Pesquisa de Destinos:** Nosso sistema oferece funcionalidades abrangentes de pesquisa de destinos, permite aos usuários pesquisar e explorar uma variedade de destinos turísticos, permitidno filtros com base em vários critérios, como orçamento, tipo de viagem.
+
+**RF2 - Reserva de Voos e Acomodações:** O sistema permite aos usuários a reserva de voos e acomodações diretamente por meio da plataforma. Isso inclui a capacidade de pesquisar, visualizar opções disponíveis, selecionar datas, horários e tarifas, além de efetuar reservas seguras..
+
+**RF3 - Planejamento de Itinerários:** O sistema fornece ferramentas para criar itinerários personalizados. Os usuários devem poder selecionar atividades, atrações e reservas de viagem, organizando-as em um cronograma de viagem. Além disso, os itinerários devem ser editáveis e atualizáveis conforme necessário.
+
+**RF4 - Verificação de Requisitos de Visto:** O sistema deve disponibilizar informações sobre os requisitos de visto para destinos internacionais. Os usuários devem poder verificar os requisitos de visto necessários com base em sua nacionalidade e destino, incluindo orientações sobre como obter os vistos necessários.
+
+**RF5 - Organização de Visitas Guiadas:** O sistema deve permitir que os usuários organizem visitas guiadas em seus destinos escolhidos. Isso inclui a possibilidade de reservar guias turísticos locais, definir datas e horários, bem como selecionar os locais e atrações a serem visitados durante a excursão.
+
+**RF6 - Informações sobre Atrações Locais:** O sistema deve disponibilizar informações detalhadas sobre atrações locais em destinos específicos. Os usuários devem ter acesso a descrições, horários de funcionamento, preços, avaliações e recomendações para as principais atrações em seus destinos de escolha.
 
 ## Cenarios
+
+*Cenário 1* - Luis Bassalo, um engenheiro de software apaixonado por tecnologia, encontra-se imerso em sua rotina de trabalho em uma grande empresa de tecnologia. Sua paixão por programar e desenvolver novos aplicativos é evidente, mas, nos momentos de lazer, Luis se entrega à sua outra paixão: a fotografia.
+
+Com uma câmera sempre à mão, Luis aproveita seu tempo livre explorando a cidade em busca de locais interessantes para capturar imagens deslumbrantes. Apesar de sua natureza introvertida, ele não hesita em compartilhar suas últimas fotos com amigos e está sempre disposto a ajudá-los com problemas de tecnologia.
+
+Recentemente, Luis começou a sentir a necessidade de uma mudança de cenário para encontrar novas fontes de inspiração para suas fotografias. Ele decide que é hora de planejar uma viagem, combinando seu amor por explorar novos lugares com a paixão pela fotografia.
+
+Ao considerar destinos, Luis procura um lugar que ofereça uma combinação única de paisagens, arquitetura e cultura. Ele imagina-se capturando não apenas belas paisagens, mas também momentos autênticos que refletem a vida local.
+
+Ao planejar sua viagem, Luis busca um aplicativo que vá além de simples reservas e itinerários, procurando algo que o ajude a descobrir locais fotogênicos e experiências autênticas. Ele quer uma plataforma que o ajude a mergulhar na essência de cada destino, conectando-se com a comunidade local e proporcionando uma experiência genuína.
+
+Luis, ansioso por explorar e encontrar inspiração em novos lugares, está determinado a transformar sua próxima viagem em uma jornada fotográfica única, onde cada imagem capturada conte uma história única de sua experiência e descoberta.
+
+*Cenário 2* - Jéssica, uma designer gráfica de 33 anos de Minas Gerais, Brasil, está animada para planejar seu primeiro mochilão pela América do Sul. Enfrentando a frustração da falta de experiência em planejamento de viagens, ela busca um aplicativo que atenda às suas necessidades. Sua personalidade criativa, aventureira e amigável reflete em seus objetivos de buscar desafios emocionantes, experiências culturais e novas amizades.
+
+Ativa nas redes sociais, Jéssica segue influenciadores de viagens e lê blogs de aventureiros para obter inspiração. Ao explorar o aplicativo, ela procura uma ampla gama de destinos sul-americanos, ferramentas intuitivas para planejar itinerários personalizados e informações detalhadas sobre atrações locais e eventos culturais. A praticidade de reservar voos, acomodações e visitas guiadas diretamente pelo aplicativo é essencial para sua experiência de viagem. Além disso, Jéssica valoriza informações claras sobre requisitos de visto, considerando sua falta de experiência em viagens internacionais. Em resumo, ela busca uma plataforma que combine funcionalidades abrangentes com a praticidade de seu estilo de vida digital, permitindo que sua viagem pela América do Sul seja não apenas planejada, mas também enriquecedora e inesquecível.
 
 
 ## Prototipo Lo-Fi
