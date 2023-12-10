@@ -16,7 +16,7 @@ Para acessar a apresentação do trabalho [clique aqui](https://www.youtube.com/
 
 ## Personas
 <img src="\Assets\persona1.jpeg" alt="Persona1">
-<img src="\Assets\persona2.jpeg" alt="Persona2">
+<img src="\Assets\Persona2.jpeg" alt="Persona2">
 
 ## Requisitos
 Esses requisitos visam garantir que o aplicativo proporcione aos usuários uma experiência completa, desde a fase inicial de pesquisa e planejamento até a execução da viagem, integrando funcionalidades que facilitem a tomada de decisões e a organização de itinerários personalizados.
