@@ -11,29 +11,26 @@ Matheus Paiva Almeida da Conceição - RA: 1272224747<br>
 Pedro Paulo Oliveira Falcão - RA: 1272220290<br>
 Rhael Silva Santos - RA: 12722132548<br>
 
-# Entrega
-APRESENTAÇÃO clique [aqui](https://www.youtube.com/watch?v=ude3T3n2MZ4&ab_channel=DiegodaSilva)
-
-A entrega do trabalho deverá ser feita através de um repositório do Github.**OK**
-Você deverá colocar o relatório final de avaliação em PDF juntamente com a(s) planilha(s) que utilizou para realizar os cálculos durante o processo de avaliação. 
-A próxima seção deste documento contém o modelo (template) do relatório de avaliação que você deverá usar para criar o seu relatório final.
+## Apresentação
+Para acessar a apresentação do trabalho [clique aqui](https://www.youtube.com/watch?v=ude3T3n2MZ4&ab_channel=DiegodaSilva)
 
 ## Personas
 <img src="\Assets\persona1.jpeg" alt="Persona_1">
 <img src="\Assets\persona2.jpeg" alt="Persona_2">
 
 # Requisitos
-**RF1 - Recursos de Pesquisa de Destinos:** Nosso sistema oferece funcionalidades abrangentes de pesquisa de destinos, permite aos usuários pesquisar e explorar uma variedade de destinos turísticos, permitidno filtros com base em vários critérios, como orçamento, tipo de viagem.
 
-**RF2 - Reserva de Voos e Acomodações:** O sistema permite aos usuários a reserva de voos e acomodações diretamente por meio da plataforma. Isso inclui a capacidade de pesquisar, visualizar opções disponíveis, selecionar datas, horários e tarifas, além de efetuar reservas seguras..
+**RF1 - Recursos de Pesquisa de Destinos:** O aplicativo deve fornecer uma interface intuitiva para pesquisa de destinos, permitindo aos usuários explorar uma variedade de opções com base em critérios como orçamento, tipo de viagem, clima e atrações específicas.
 
-**RF3 - Planejamento de Itinerários:** O sistema fornece ferramentas para criar itinerários personalizados. Os usuários devem poder selecionar atividades, atrações e reservas de viagem, organizando-as em um cronograma de viagem. Além disso, os itinerários devem ser editáveis e atualizáveis conforme necessário.
+**RF2 - Reserva de Voos e Acomodações:** Os usuários devem poder pesquisar, visualizar e reservar voos diretamente pelo aplicativo, com informações detalhadas sobre opções de voos, horários, tarifas e companhias aéreas. Além disso, o aplicativo deve oferecer a capacidade de reservar acomodações, permitindo aos usuários escolher entre uma variedade de opções, como hotéis, pousadas ou aluguéis de temporada.
 
-**RF4 - Verificação de Requisitos de Visto:** O sistema deve disponibilizar informações sobre os requisitos de visto para destinos internacionais. Os usuários devem poder verificar os requisitos de visto necessários com base em sua nacionalidade e destino, incluindo orientações sobre como obter os vistos necessários.
+**RF3 - Planejamento de Itinerários:** O aplicativo deve fornecer ferramentas para criar itinerários personalizados. Os usuários devem poder selecionar atividades, atrações e reservas de viagem, organizando-as em um cronograma de viagem que seja editável e atualizável conforme necessário.
 
-**RF5 - Organização de Visitas Guiadas:** O sistema deve permitir que os usuários organizem visitas guiadas em seus destinos escolhidos. Isso inclui a possibilidade de reservar guias turísticos locais, definir datas e horários, bem como selecionar os locais e atrações a serem visitados durante a excursão.
+**RF4 - Verificação de Requisitos de Visto:** Deve ser possível para os usuários verificar os requisitos de visto necessários para seus destinos internacionais. O aplicativo deve fornecer informações claras sobre os documentos necessários com base na nacionalidade e destino escolhidos, incluindo orientações sobre como obter os vistos necessários.
 
-**RF6 - Informações sobre Atrações Locais:** O sistema deve disponibilizar informações detalhadas sobre atrações locais em destinos específicos. Os usuários devem ter acesso a descrições, horários de funcionamento, preços, avaliações e recomendações para as principais atrações em seus destinos de escolha.
+**RF5 - Organização de Visitas Guiadas:** Os usuários devem poder organizar visitas guiadas diretamente pelo aplicativo. Isso inclui a capacidade de reservar guias turísticos locais, definir datas, horários e selecionar os locais e atrações a serem visitados durante a excursão.
+
+**RF6 - Informações sobre Atrações Locais:** O aplicativo deve disponibilizar informações detalhadas sobre as principais atrações em destinos específicos. Isso inclui descrições, horários de funcionamento, preços, avaliações e recomendações, proporcionando aos usuários uma compreensão abrangente das opções disponíveis durante sua viagem.
 
 ## Cenários
 
