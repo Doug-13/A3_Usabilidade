@@ -19,18 +19,20 @@ Para acessar a apresentação do trabalho [clique aqui](https://www.youtube.com/
 <img src="\Assets\persona2.jpeg" alt="Persona_2">
 
 # Requisitos
+Esses requisitos visam garantir que o aplicativo proporcione aos usuários uma experiência completa, desde a fase inicial de pesquisa e planejamento até a execução da viagem, integrando funcionalidades que facilitem a tomada de decisões e a organização de itinerários personalizados.
 
-**RF1 - Recursos de Pesquisa de Destinos:** O aplicativo deve fornecer uma interface intuitiva para pesquisa de destinos, permitindo aos usuários explorar uma variedade de opções com base em critérios como orçamento, tipo de viagem, clima e atrações específicas.
+**Requisito de Pesquisa de Destinos:**
+   - O aplicativo deve fornecer uma funcionalidade eficiente de pesquisa de destinos, permitindo que os usuários encontrem opções com base em critérios como orçamento, interesses específicos, preferências climáticas e atividades desejadas.
 
-**RF2 - Reserva de Voos e Acomodações:** Os usuários devem poder pesquisar, visualizar e reservar voos diretamente pelo aplicativo, com informações detalhadas sobre opções de voos, horários, tarifas e companhias aéreas. Além disso, o aplicativo deve oferecer a capacidade de reservar acomodações, permitindo aos usuários escolher entre uma variedade de opções, como hotéis, pousadas ou aluguéis de temporada.
+**Requisito de Reserva Unificada:**
+   - O aplicativo deve permitir que os usuários reservem voos, acomodações e outros serviços essenciais de viagem de forma integrada. Isso inclui a capacidade de visualizar opções, comparar preços, escolher datas e concluir reservas de maneira eficiente, simplificando o processo de planejamento.
 
-**RF3 - Planejamento de Itinerários:** O aplicativo deve fornecer ferramentas para criar itinerários personalizados. Os usuários devem poder selecionar atividades, atrações e reservas de viagem, organizando-as em um cronograma de viagem que seja editável e atualizável conforme necessário.
+**Requisito de Itinerários Personalizados:**
+   - O aplicativo deve oferecer ferramentas para a criação de itinerários personalizados. Os usuários devem poder selecionar atividades, pontos turísticos e reservas, organizando-os em um cronograma flexível que possa ser facilmente editado e atualizado conforme necessário.
 
-**RF4 - Verificação de Requisitos de Visto:** Deve ser possível para os usuários verificar os requisitos de visto necessários para seus destinos internacionais. O aplicativo deve fornecer informações claras sobre os documentos necessários com base na nacionalidade e destino escolhidos, incluindo orientações sobre como obter os vistos necessários.
+**Requisito de Informações Locais Relevantes:**
+   - O aplicativo deve disponibilizar informações detalhadas sobre atrações locais nos destinos escolhidos. Isso inclui descrições, horários de funcionamento, preços, avaliações e recomendações, proporcionando aos usuários insights valiosos para tomar decisões informadas durante sua viagem.
 
-**RF5 - Organização de Visitas Guiadas:** Os usuários devem poder organizar visitas guiadas diretamente pelo aplicativo. Isso inclui a capacidade de reservar guias turísticos locais, definir datas, horários e selecionar os locais e atrações a serem visitados durante a excursão.
-
-**RF6 - Informações sobre Atrações Locais:** O aplicativo deve disponibilizar informações detalhadas sobre as principais atrações em destinos específicos. Isso inclui descrições, horários de funcionamento, preços, avaliações e recomendações, proporcionando aos usuários uma compreensão abrangente das opções disponíveis durante sua viagem.
 
 ## Cenários
 
