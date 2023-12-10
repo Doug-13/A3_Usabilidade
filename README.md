@@ -12,6 +12,8 @@ Pedro Paulo Oliveira Falcão - RA: 1272220290<br>
 Rhael Silva Santos - RA: 12722132548<br>
 
 # Entrega
+APRESENTAÇÃO clique [aqui](https://www.youtube.com/watch?v=ude3T3n2MZ4&ab_channel=DiegodaSilva)
+
 A entrega do trabalho deverá ser feita através de um repositório do Github.**OK**
 Você deverá colocar o relatório final de avaliação em PDF juntamente com a(s) planilha(s) que utilizou para realizar os cálculos durante o processo de avaliação. 
 A próxima seção deste documento contém o modelo (template) do relatório de avaliação que você deverá usar para criar o seu relatório final.
